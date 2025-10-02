@@ -49,7 +49,6 @@
   <img src="https://wttr.in/Malang.png?1" alt="Malang Weather"/>
 </p>
 
-### 🚀 My GitHub Goals
 <h1 align="center">portofolio to do list</h1>
 - ☐ Learn Web3
 - ☐ Build AI Chatbot
