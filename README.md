@@ -1,7 +1,6 @@
 <!-- Banner atau GIF opening -->
 <p align="center">
-<p align="center">
-  <img src="icon.png" alt="Profile Picture" width="500"/>
+  <img src="icon.png" alt="bagas." width="500"/>
 </p>
 
 </p>
