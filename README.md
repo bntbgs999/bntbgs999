@@ -42,6 +42,4 @@
 
 ### 🐍 GitHub Activity
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/bntbgs999/bntbgs999/output/snake.svg" alt="Snake animation" />
-</div>
+![Weather Malang](https://img.shields.io/badge/Weather-27°C%20Sunny-yellow)
