@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/A-grey?style=for-the-badge&logoColor=white" alt="A"/>
   <img src="https://img.shields.io/badge/G-grey?style=for-the-badge&logoColor=white" alt="G"/>
   <img src="https://img.shields.io/badge/A-grey?style=for-the-badge&logoColor=white" alt="A"/>
-  <img src="https://img.shields.io/badge-S-grey?style=for-the-badge&logoColor=white" alt="S"/>
+    <img src="https://img.shields.io/badge/S-grey?style=for-the-badge&logoColor=white" alt="S"/>
 </p>
 
 <h3 align="center">🚀 IT Student | Web & Mobile Developer | Future Web3 Enthusiast</h3>
