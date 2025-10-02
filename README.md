@@ -40,6 +40,18 @@
 
 ---
 
-### 🐍 GitHub Activity
+<h1 align="center">portofolio web cuaca</h1>
+<p align="center">
+  <img src="https://wttr.in/Malang.png?1" alt="Malang Weather"/>
+</p>
 
-![Weather Malang](https://img.shields.io/badge/Weather-27°C%20Sunny-yellow)
+### 🚀 My GitHub Goals
+<h1 align="center">portofolio to do list</h1>
+- [x] Update GitHub Profile README
+- [ ] Learn Web3 Development
+- [ ] Build AI-powered Chatbot
+- [ ] Create Personal Portfolio Website
+- [ ] Explore Cloud Computing Projects
+- [ ] Contribute to Open Source
+- [ ] Practice Flutter & Mobile Apps
+
