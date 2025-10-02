@@ -8,15 +8,15 @@
 
 ---
 
-<h3 align="center">ngoding | kapal api | youtube music | enjoy living aowkaokwa</h3>
-
----
-
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/bintangbagas" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://instagram.com/bntbgs" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
 </p>
 
 ---
