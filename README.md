@@ -3,7 +3,14 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRhYmV5OGlpcXZvcXpubmVlMzMyMjF6aDNiZWppbGh4bDYyMDNrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B2CxNosDKhYiY/giphy.gif" width="500"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Bagas</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/B-🟦-blue?style=for-the-badge&logoColor=white" alt="B"/>
+  <img src="https://img.shields.io/badge/A-🟥-red?style=for-the-badge&logoColor=white" alt="A"/>
+  <img src="https://img.shields.io/badge/G-🟩-green?style=for-the-badge&logoColor=white" alt="G"/>
+  <img src="https://img.shields.io/badge/A-🟨-yellow?style=for-the-badge&logoColor=white" alt="A"/>
+  <img src="https://img.shields.io/badge-S-🟪-purple?style=for-the-badge&logoColor=white" alt="S"/>
+</p>
+
 <h3 align="center">🚀 IT Student | Web & Mobile Developer | Future Web3 Enthusiast</h3>
 
 ---
