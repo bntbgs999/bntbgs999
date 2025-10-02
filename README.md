@@ -24,10 +24,10 @@
 
 ---
 
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bntbgs999&show_icons=true&theme=tokyonight" alt="stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bntbgs999&theme=tokyonight" alt="streak" height="180"/>
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Learning-Web3-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tools-AI%20%26%20RAG-green?style=for-the-badge"/>
 </p>
 
 ---
