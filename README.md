@@ -19,7 +19,7 @@
 
 ### 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,php,laravel,mysql,flutter,dart,java,python,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nuxtjs,nextjs,nodejs,php,laravel,mysql,flutter,dart,java,python,git,github" />
 </p>
 
 ---
@@ -40,6 +40,8 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
+### 🐍 GitHub Activity
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bntbgs999/bntbgs999/output/snake.svg" alt="Snake animation" />
+</div>
