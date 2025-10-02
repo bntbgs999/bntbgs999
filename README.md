@@ -55,6 +55,5 @@
 - ☐ Create Portfolio Website
 
 <h1 align="center">akademi kripto</h1>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bntbgs999/bntbgs999/main/bitcoin_chart.svg" alt="Bitcoin Chart"/>
-</p>
+![Bitcoin Price](https://img.shields.io/crypto/price/BTC?label=Bitcoin&style=for-the-badge)
+
