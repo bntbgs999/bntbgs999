@@ -1,6 +1,6 @@
 <!-- Banner atau GIF opening -->
 <p align="center">
-  <img src="icon.png" alt="bagas." width="500"/>
+  <img src="bagasicon.png" alt="bagas." width="500"/>
 </p>
 
 </p>
