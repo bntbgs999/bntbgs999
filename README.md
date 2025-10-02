@@ -5,6 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Bagas</h1>
 <h3 align="center">🚀 IT Student | Web & Mobile Developer | Future Web3 Enthusiast</h3>
+<h3 align="center">🚀 ngoding | kapal api | youtube music | enjoy living aowkaokwa</h3>
 
 ---
 
@@ -47,18 +48,7 @@
 
 ### 🚀 My GitHub Goals
 <h1 align="center">portofolio to do list</h1>
-<label>
-  <input type="checkbox" onclick="this.checked=!this.checked">
-  Learn Web3
-</label><br>
-
-<label>
-  <input type="checkbox" onclick="this.checked=!this.checked">
-  Build AI Chatbot
-</label><br>
-
-<label>
-  <input type="checkbox" onclick="this.checked=!this.checked">
-  Create Portfolio Website
-</label>
+- ☐ Learn Web3
+- ☐ Build AI Chatbot
+- ☐ Create Portfolio Website
 
