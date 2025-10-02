@@ -54,3 +54,7 @@
 - ☐ Build AI Chatbot
 - ☐ Create Portfolio Website
 
+<h1 align="center">akademi kripto</h1>
+<p align="center">
+  <img src="https://s3.tradingview.com/snapshots/xxxx.png" alt="Bitcoin Chart" width="600"/>
+</p>
