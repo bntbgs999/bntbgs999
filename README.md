@@ -56,5 +56,5 @@
 
 <h1 align="center">akademi kripto</h1>
 <p align="center">
-  <img src="https://s3.tradingview.com/snapshots/xxxx.png" alt="Bitcoin Chart" width="600"/>
+  <img src="https://raw.githubusercontent.com/bntbgs999/bntbgs999/main/bitcoin_chart.svg" alt="Bitcoin Chart"/>
 </p>
