@@ -49,16 +49,19 @@
   <img src="https://wttr.in/Malang.png?1" alt="Malang Weather"/>
 </p>
 
+---
+
+
 <h1 align="center">portofolio to do list</h1>
 - ☐ Learn Web3
 - ☐ Build AI Chatbot
 - ☐ Create Portfolio Website
 
-<p align="center">
-  <!-- Bitcoin -->
-  <img src="https://img.shields.io/crypto/price/BTC?label=Bitcoin&style=for-the-badge&logo=bitcoin" alt="Bitcoin Price"/>
+---
 
-  <!-- Ethereum -->
-  <img src="https://img.shields.io/crypto/price/ETH?label=Ethereum&style=for-the-badge&logo=ethereum" alt="Ethereum Price"/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Bitcoin-Orange?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin"/>
+  <img src="https://img.shields.io/badge/Ethereum-Blue?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
 </p>
 
