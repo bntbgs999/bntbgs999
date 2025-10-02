@@ -1,6 +1,9 @@
 <!-- Banner atau GIF opening -->
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRhYmV5OGlpcXZvcXpubmVlMzMyMjF6aDNiZWppbGh4bDYyMDNrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B2CxNosDKhYiY/giphy.gif" width="500"/>
+<p align="center">
+  <img src="icon.png" alt="Profile Picture" width="500"/>
+</p>
+
 </p>
 
 <p align="center">
