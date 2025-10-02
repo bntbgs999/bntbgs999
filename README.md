@@ -54,6 +54,11 @@
 - ☐ Build AI Chatbot
 - ☐ Create Portfolio Website
 
-<h1 align="center">akademi kripto</h1>
-![Bitcoin Price](https://img.shields.io/crypto/price/BTC?label=Bitcoin&style=for-the-badge)
+<p align="center">
+  <!-- Bitcoin -->
+  <img src="https://img.shields.io/crypto/price/BTC?label=Bitcoin&style=for-the-badge&logo=bitcoin" alt="Bitcoin Price"/>
+
+  <!-- Ethereum -->
+  <img src="https://img.shields.io/crypto/price/ETH?label=Ethereum&style=for-the-badge&logo=ethereum" alt="Ethereum Price"/>
+</p>
 
