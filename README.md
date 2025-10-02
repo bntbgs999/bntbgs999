@@ -5,8 +5,9 @@
 
 <h1 align="center">Hi 👋, I'm Bagas</h1>
 <h3 align="center">🚀 IT Student | Web & Mobile Developer | Future Web3 Enthusiast</h3>
-<h3 align="center">ngoding | kapal api | youtube music | enjoy living aowkaokwa</h3>
 
+---
+<h3 align="center">ngoding | kapal api | youtube music | enjoy living aowkaokwa</h3>
 ---
 
 ### 🌐 Connect with Me
