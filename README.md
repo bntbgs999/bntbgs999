@@ -47,11 +47,18 @@
 
 ### 🚀 My GitHub Goals
 <h1 align="center">portofolio to do list</h1>
-- [x] Update GitHub Profile README
-- [ ] Learn Web3 Development
-- [ ] Build AI-powered Chatbot
-- [ ] Create Personal Portfolio Website
-- [ ] Explore Cloud Computing Projects
-- [ ] Contribute to Open Source
-- [ ] Practice Flutter & Mobile Apps
+<label>
+  <input type="checkbox" onclick="this.checked=!this.checked">
+  Learn Web3
+</label><br>
+
+<label>
+  <input type="checkbox" onclick="this.checked=!this.checked">
+  Build AI Chatbot
+</label><br>
+
+<label>
+  <input type="checkbox" onclick="this.checked=!this.checked">
+  Create Portfolio Website
+</label>
 
