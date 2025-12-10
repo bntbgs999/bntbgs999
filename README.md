@@ -52,5 +52,5 @@
 - ⚡ Fun fact: I love coding at midnight 🌙  
 - ☕ I rather drink kapal api than kopi susu gula aren for living
 <p align="center">
-![ProfessionalGIF](giphy.gif)
+  <img src="giphy.gif" width="400"/>
 </p>
