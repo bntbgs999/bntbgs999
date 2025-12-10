@@ -54,7 +54,7 @@
 
 ---
 
-<h3 align="center">me when waitin ai to generet sum yap</h3>
+<h3 align="center">the end</h3>
 <p align="center">
   <img src="giphy.gif" width="400"/>
 </p>
