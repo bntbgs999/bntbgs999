@@ -51,6 +51,10 @@
 - 🎯 Goal: Become a **Full-Stack Developer + AI/Web3 Specialist**  
 - ⚡ Fun fact: I love coding at midnight 🌙  
 - ☕ I rather drink kapal api than kopi susu gula aren for living
+
+---
+
+<h3 align="center">me when waitin ai to generet sum yap</h3>
 <p align="center">
   <img src="giphy.gif" width="400"/>
 </p>
