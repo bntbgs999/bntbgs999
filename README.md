@@ -51,3 +51,4 @@
 - 🎯 Goal: Become a **Full-Stack Developer + AI/Web3 Specialist**  
 - ⚡ Fun fact: I love coding at midnight 🌙  
 - ☕ I rather drink kapal api than kopi susu gula aren for living
+-  <div style="width:100%;height:0;padding-bottom:91%;position:relative;"><iframe src="https://giphy.com/embed/1gTbCxzkZAvumtesYK" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/windah-basudara-joget-1gTbCxzkZAvumtesYK">via GIPHY</a></p>
