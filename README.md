@@ -46,7 +46,7 @@
 ---
 
 ### 🚀 About Me
-- 🌱 Currently learning **Web3, AI-powered apps, and Cloud Computing**  
+- 🌱 Currently learning **Web3, and AI-powered apps**  
 - 💡 Passionate about building **scalable web & mobile apps**  
 - 🎯 Goal: Become a **Full-Stack Developer + AI/Web3 Specialist**  
 - ⚡ Fun fact: I love coding at midnight 🌙  
