@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/S-white?style=for-the-badge&logoColor=white" alt="S"/>
 </p>
 
-<h3 align="center">🚀 IT Student | Web & Mobile Developer | Future Web3 Enthusiast</h3>
+<h3 align="center">danone fullstack developer | also known as bintangbagasthedev</h3>
 
 ---
 
